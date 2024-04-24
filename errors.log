@@ -1,0 +1,2 @@
+[2024-02-19 21:12:34] DB Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.users2' doesn't exist
+[2024-02-19 21:14:08] DB Error: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '$2y$10$PR94h2syssJS1Dz81OTfp.R6McrPSzM46B4I80zYRR.CBrbR4em3a' for column 'password' at row 1
